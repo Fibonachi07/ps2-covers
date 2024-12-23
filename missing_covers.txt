@@ -935,6 +935,7 @@ SLES-55571  ---  Ghostbusters
 SLES-55573  ---  MotorStorm Arctic Edge
 SLES-55597  ---  Hugo - Magic in the Trollwoods
 SLES-55604  ---  PES 2010 - Pro Evolution Soccer [Demo]
+SLES-55656  ---  PES 2012 - Pro Evolution Soccer (3D)
 SLES-55674  ---  Pro Evolution Soccer 2014
 SLES-82034  ---  Xenosaga Episode II [Disc1of2]
 SLES-82035  ---  Xenosaga Episode II [Disc2of2]
@@ -1687,6 +1688,7 @@ TCPS-10166  ---  Wizardry Gaiden - Sentou no Kangoku - Prisoners of the Battles
 TCPS-10168  ---  Mushihime-sama [Taito The Best]
 TCPS-10172  ---  Homura [Taito the Best]
 TCPS-10182  ---  Rozen Maiden - Gebetgarten [Limited Edition]
+
 TCPS-10183  ---  Taito Memories II - Gekan
 TLES-52149  ---  Splinter Cell - Pandora Tomorrow Beta Trial Code
 TLES-52707  ---  Monster Hunter Beta Trial Code
